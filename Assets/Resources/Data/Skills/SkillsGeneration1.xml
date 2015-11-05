@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <skill>
+  	<index>1</index>
+  	<name>拍击</name>
+  	<des>无</des>
+    <attr>0</attr>
+    <category>0</category>
+  	<power>40</power>
+    <hit>100</hit>
+    <PP>35</PP>
+    <preLv>0</preLv>
+    <skillType></skillType>
+  </skill>
+</data>

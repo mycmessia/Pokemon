@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<Hardy>
+		<attack>1</attack> <magicAttack>1</magicAttack> <defend>1</defend> <magicDefend>1</magicDefend> <speed>1</speed>
+	</Hardy>
+	<Lonely>
+		<attack>1.1</attack> <magicAttack>1</magicAttack> <defend>0.9</defend> <magicDefend>1</magicDefend> <speed>1</speed>
+	</Lonely>
+	<Brave>
+		<attack>1.1</attack> <magicAttack>1</magicAttack> <defend>1</defend> <magicDefend>1</magicDefend> <speed>0.9</speed>
+	</Brave>
+	<Adamant>
+		<attack>1.1</attack> <magicAttack>0.9</magicAttack> <defend>1</defend> <magicDefend>1</magicDefend> <speed>1</speed>
+	</Adamant>
+	<Naughty>
+		<attack>1.1</attack> <magicAttack>1</magicAttack> <defend>1</defend> <magicDefend>0.9</magicDefend> <speed>1</speed>
+	</Naughty>
+	<Bold>
+		<attack>0.9</attack> <magicAttack>1</magicAttack> <defend>1.1</defend> <magicDefend>1</magicDefend> <speed>1</speed>
+	</Bold>
+	<Docile>
+		<attack>1</attack> <magicAttack>1</magicAttack> <defend>1</defend> <magicDefend>1</magicDefend> <speed>1</speed>
+	</Docile>
+	<Relaxed>
+		<attack>1</attack> <magicAttack>1</magicAttack> <defend>1.1</defend> <magicDefend>1</magicDefend> <speed>0.9</speed>
+	</Relaxed>
+	<Impish>
+		<attack>1</attack> <magicAttack>0.9</magicAttack> <defend>1.1</defend> <magicDefend>1</magicDefend> <speed>1</speed>
+	</Impish>
+	<Lax>
+		<attack>1</attack> <magicAttack>1</magicAttack> <defend>1.1</defend> <magicDefend>0.9</magicDefend> <speed>1</speed>
+	</Lax>
+	<Timid>
+		<attack>0.9</attack> <magicAttack>1</magicAttack> <defend>1</defend> <magicDefend>1</magicDefend> <speed>1.1</speed>
+	</Timid>
+	<Hasty>
+		<attack>1</attack> <magicAttack>1</magicAttack> <defend>0.9</defend> <magicDefend>1</magicDefend> <speed>1.1</speed>
+	</Hasty>
+	<Serious>
+		<attack>1</attack> <magicAttack>1</magicAttack> <defend>1</defend> <magicDefend>1</magicDefend> <speed>1</speed>
+	</Serious>
+	<Jolly>
+		<attack>1</attack> <magicAttack>0.9</magicAttack> <defend>1</defend> <magicDefend>1</magicDefend> <speed>1.1</speed>
+	</Jolly>
+	<Naive>
+		<attack>1</attack> <magicAttack>1</magicAttack> <defend>1</defend> <magicDefend>0.9</magicDefend> <speed>1.1</speed>
+	</Naive>
+	<Modest>
+		<attack>0,9</attack> <magicAttack>1.1</magicAttack> <defend>1</defend> <magicDefend>1</magicDefend> <speed>1</speed>
+	</Modest>
+	<Mild>
+		<attack>1</attack> <magicAttack>1.1</magicAttack> <defend>0.9</defend> <magicDefend>1</magicDefend> <speed>1</speed>
+	</Mild>
+	<Quiet>
+		<attack>1</attack> <magicAttack>1.1</magicAttack> <defend>1</defend> <magicDefend>1</magicDefend> <speed>0.9</speed>
+	</Quiet>
+	<Shy>
+		<attack>1</attack> <magicAttack>1</magicAttack> <defend>1</defend> <magicDefend>1</magicDefend> <speed>1</speed>
+	</Shy>
+	<Rash>
+		<attack>1</attack> <magicAttack>1.1</magicAttack> <defend>1</defend> <magicDefend>0.9</magicDefend> <speed>1</speed>
+	</Rash>
+	<Calm>
+		<attack>0.9</attack> <magicAttack>1</magicAttack> <defend>1</defend> <magicDefend>1.1</magicDefend> <speed>1</speed>
+	</Calm>
+	<Gentle>
+		<attack>1</attack> <magicAttack>1.1</magicAttack> <defend>0.9</defend> <magicDefend>1</magicDefend> <speed>1</speed>
+	</Gentle>
+	<Sassy>
+		<attack>1</attack> <magicAttack>1</magicAttack> <defend>1</defend> <magicDefend>1.1</magicDefend> <speed>0.9</speed>
+	</Sassy>
+	<Careful>
+		<attack>1</attack> <magicAttack>0.9</magicAttack> <defend>1</defend> <magicDefend>1.1</magicDefend> <speed>1</speed>
+	</Careful>
+	<Quirky>
+		<attack>1</attack> <magicAttack>1</magicAttack> <defend>1</defend> <magicDefend>1</magicDefend> <speed>1</speed>
+	</Quirky>
+</data>

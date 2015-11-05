@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <Normal>
+  	<Normal>1</Normal> <Fire>1</Fire> <Water>1</Water> <Lighting>1</Lighting> <Grass>1</Grass> <Ice>1</Ice>
+  	<Super>1</Super> <Fight>1</Fight> <Poison>1</Poison> <Ground>1</Ground> <Fly>1</Fly> <Bug>1</Bug> 
+  	<Rock>0.5</Rock> <Ghost>0</Ghost> <Dragon>1</Dragon> <Evil>1</Evil> <Iron>0.5</Iron> <Monster>1</Monster>
+  </Normal>
+  <Fire>
+  	<Normal>1</Normal> <Fire>0.5</Fire> <Water>0.5</Water> <Lighting>1</Lighting> <Grass>2</Grass> <Ice>2</Ice>
+  	<Super>1</Super> <Fight>1</Fight> <Poison>1</Poison> <Ground>1</Ground> <Fly>1</Fly> <Bug>2</Bug> 
+  	<Rock>0.5</Rock> <Ghost>1</Ghost> <Dragon>0.5</Dragon> <Evil>1</Evil> <Iron>2</Iron> <Monster>1</Monster>
+  </Fire>
+  <Water>
+  	<Normal>1</Normal> <Fire>2</Fire> <Water>0.5</Water> <Lighting>1</Lighting> <Grass>0.5</Grass> <Ice>1</Ice>
+  	<Super>1</Super> <Fight>1</Fight> <Poison>1</Poison> <Ground>2</Ground> <Fly>1</Fly> <Bug>1</Bug> 
+  	<Rock>2</Rock> <Ghost>1</Ghost> <Dragon>0.5</Dragon> <Evil>1</Evil> <Iron>1</Iron> <Monster>1</Monster>
+  </Water>
+  <Lighting>
+  	<Normal>1</Normal> <Fire>1</Fire> <Water>2</Water> <Lighting>0.5</Lighting> <Grass>0.5</Grass> <Ice>1</Ice>
+  	<Super>1</Super> <Fight>1</Fight> <Poison>1</Poison> <Ground>0</Ground> <Fly>2</Fly> <Bug>1</Bug> 
+  	<Rock>0</Rock> <Ghost>1</Ghost> <Dragon>0.5</Dragon> <Evil>1</Evil> <Iron>1</Iron> <Monster>1</Monster>
+  </Lighting>
+  <Grass>
+  	<Normal>1</Normal> <Fire>0.5</Fire> <Water>2</Water> <Lighting>1</Lighting> <Grass>0.5</Grass> <Ice>1</Ice>
+  	<Super>1</Super> <Fight>1</Fight> <Poison>0.5</Poison> <Ground>2</Ground> <Fly>0.5</Fly> <Bug>0.5</Bug> 
+  	<Rock>2</Rock> <Ghost>1</Ghost> <Dragon>0.5</Dragon> <Evil>1</Evil> <Iron>0.5</Iron> <Monster>1</Monster>
+  </Grass>
+  <Ice>
+  	<Normal>1</Normal> <Fire>0.5</Fire> <Water>0.5</Water> <Lighting>1</Lighting> <Grass>2</Grass> <Ice>0.5</Ice>
+  	<Super>1</Super> <Fight>1</Fight> <Poison>1</Poison> <Ground>2</Ground> <Fly>2</Fly> <Bug>1</Bug> 
+  	<Rock>2</Rock> <Ghost>1</Ghost> <Dragon>2</Dragon> <Evil>1</Evil> <Iron>0.5</Iron> <Monster>1</Monster>
+  </Ice>
+  <Super>
+  	<Normal>1</Normal> <Fire>1</Fire> <Water>1</Water> <Lighting>1</Lighting> <Grass>1</Grass> <Ice>1</Ice>
+  	<Super>0.5</Super> <Fight>2</Fight> <Poison>2</Poison> <Ground>1</Ground> <Fly>1</Fly> <Bug>1</Bug> 
+  	<Rock>2</Rock> <Ghost>1</Ghost> <Dragon>1</Dragon> <Evil>0</Evil> <Iron>0.5</Iron> <Monster>1</Monster>
+  </Super>
+  <Fighting>
+  	<Normal>2</Normal> <Fire>1</Fire> <Water>1</Water> <Lighting>1</Lighting> <Grass>1</Grass> <Ice>2</Ice>
+  	<Super>0.5</Super> <Fight>1</Fight> <Poison>0.5</Poison> <Ground>1</Ground> <Fly>0.5</Fly> <Bug>0.5</Bug> 
+  	<Rock>2</Rock> <Ghost>0</Ghost> <Dragon>1</Dragon> <Evil>2</Evil> <Iron>2</Iron> <Monster>1</Monster>
+  </Fighting>
+  <Poison>
+  	<Normal>1</Normal> <Fire>1</Fire> <Water>1</Water> <Lighting>1</Lighting> <Grass>2</Grass> <Ice>1</Ice>
+  	<Super>1</Super> <Fight>1</Fight> <Poison>0.5</Poison> <Ground>0.5</Ground> <Fly>1</Fly> <Bug>1</Bug> 
+  	<Rock>0.5</Rock> <Ghost>0.5</Ghost> <Dragon>1</Dragon> <Evil>1</Evil> <Iron>0</Iron> <Monster>2</Monster>
+  </Poison>
+  <Ground>
+  	<Normal>1</Normal> <Fire>2</Fire> <Water>1</Water> <Lighting>2</Lighting> <Grass>0.5</Grass> <Ice>1</Ice>
+  	<Super>1</Super> <Fight>1</Fight> <Poison>2</Poison> <Ground>1</Ground> <Fly>0</Fly> <Bug>0.5</Bug> 
+  	<Rock>2</Rock> <Ghost>1</Ghost> <Dragon>1</Dragon> <Evil>1</Evil> <Iron>2</Iron> <Monster>1</Monster>
+  </Ground>
+  <Fly>
+  	<Normal>1</Normal> <Fire>1</Fire> <Water>1</Water> <Lighting>0.5</Lighting> <Grass>2</Grass> <Ice>1</Ice>
+  	<Super>1</Super> <Fight>2</Fight> <Poison>1</Poison> <Ground>1</Ground> <Fly>1</Fly> <Bug>2</Bug> 
+  	<Rock>0.5</Rock> <Ghost>1</Ghost> <Dragon>1</Dragon> <Evil>1</Evil> <Iron>0.5</Iron> <Monster>1</Monster>
+  </Fly>
+  <Bug>
+  	<Normal>1</Normal> <Fire>0.5</Fire> <Water>1</Water> <Lighting>1</Lighting> <Grass>2</Grass> <Ice>1</Ice>
+  	<Super>2</Super> <Fight>0.5</Fight> <Poison>0.5</Poison> <Ground>1</Ground> <Fly>0.5</Fly> <Bug>1</Bug> 
+  	<Rock>1</Rock> <Ghost>0.5</Ghost> <Dragon>1</Dragon> <Evil>2</Evil> <Iron>0.5</Iron> <Monster>0.5</Monster>
+  </Bug>
+  <Rock>
+  	<Normal>1</Normal> <Fire>2</Fire> <Water>1</Water> <Lighting>1</Lighting> <Grass>1</Grass> <Ice>2</Ice>
+  	<Super>1</Super> <Fight>0.5</Fight> <Poison>1</Poison> <Ground>0.5</Ground> <Fly>2</Fly> <Bug>2</Bug> 
+  	<Rock>1</Rock> <Ghost>1</Ghost> <Dragon>1</Dragon> <Evil>1</Evil> <Iron>0.5</Iron> <Monster>1</Monster>
+  </Rock>
+  <Ghost>
+  	<Normal>1</Normal> <Fire>1</Fire> <Water>1</Water> <Lighting>1</Lighting> <Grass>1</Grass> <Ice>1</Ice>
+  	<Super>2</Super> <Fight>1</Fight> <Poison>1</Poison> <Ground>1</Ground> <Fly>1</Fly> <Bug>1</Bug> 
+  	<Rock>1</Rock> <Ghost>2</Ghost> <Dragon>1</Dragon> <Evil>0</Evil> <Iron>1</Iron> <Monster>1</Monster>
+  </Ghost>
+  <Dragon>
+  	<Normal>1</Normal> <Fire>1</Fire> <Water>1</Water> <Lighting>1</Lighting> <Grass>1</Grass> <Ice>1</Ice>
+  	<Super>1</Super> <Fight>1</Fight> <Poison>1</Poison> <Ground>1</Ground> <Fly>1</Fly> <Bug>1</Bug> 
+  	<Rock>1</Rock> <Ghost>1</Ghost> <Dragon>2</Dragon> <Evil>0</Evil> <Iron>0.5</Iron> <Monster>0</Monster>
+  </Dragon>
+  <Evil>
+  	<Normal>1</Normal> <Fire>1</Fire> <Water>1</Water> <Lighting>1</Lighting> <Grass>1</Grass> <Ice>1</Ice>
+  	<Super>2</Super> <Fight>0.5</Fight> <Poison>1</Poison> <Ground>1</Ground> <Fly>1</Fly> <Bug>1</Bug> 
+  	<Rock>1</Rock> <Ghost>2</Ghost> <Dragon>1</Dragon> <Evil>0.5</Evil> <Iron>1</Iron> <Monster>0.5</Monster>
+  </Evil>
+  <Iron>
+  	<Normal>1</Normal> <Fire>0.5</Fire> <Water>0.5</Water> <Lighting>0.5</Lighting> <Grass>1</Grass> <Ice>2</Ice>
+  	<Super>2</Super> <Fight>0.5</Fight> <Poison>1</Poison> <Ground>1</Ground> <Fly>1</Fly> <Bug>1</Bug> 
+  	<Rock>2</Rock> <Ghost>1</Ghost> <Dragon>1</Dragon> <Evil>1</Evil> <Iron>0.5</Iron> <Monster>2</Monster>
+  </Iron>
+  <Monster>
+  	<Normal>1</Normal> <Fire>0.5</Fire> <Water>1</Water> <Lighting>1</Lighting> <Grass>1</Grass> <Ice>2</Ice>
+  	<Super>1</Super> <Fight>2</Fight> <Poison>0.5</Poison> <Ground>1</Ground> <Fly>1</Fly> <Bug>1</Bug> 
+  	<Rock>1</Rock> <Ghost>1</Ghost> <Dragon>2</Dragon> <Evil>2</Evil> <Iron>0.5</Iron> <Monster>1</Monster>
+  </Monster>
+</data>

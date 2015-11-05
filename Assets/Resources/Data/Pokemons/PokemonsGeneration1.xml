@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <pokemon>
+        <index>1</index>
+        <nameC>妙蛙种子</nameC>
+        <nameE>Bulbasaur</nameE>
+        <attr1>5</attr1>
+        <attr2>-1</attr2>
+        <lv>100</lv>
+        <hpRV>45</hpRV>
+        <attackRV>49</attackRV>
+        <defendRV>49</defendRV>
+        <magicAttackRV>69</magicAttackRV>
+        <magicDefendRV>69</magicDefendRV>
+        <speedRV>45</speedRV>
+        <canLearnSkillsList>1,2,3</canLearnSkillsList>
+        <generation>1</generation>
+    </pokemon>
+</data>
